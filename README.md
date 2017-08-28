@@ -41,7 +41,7 @@ None
 
 | Variable | Default |
 |----------|---------|
-| `__language_ruby_package` | `ruby-2.3.1p1` |
+| `__language_ruby_package` | `ruby%2.3` |
 
 ## RedHat
 
